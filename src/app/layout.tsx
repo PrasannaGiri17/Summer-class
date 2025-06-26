@@ -4,7 +4,7 @@ import "./globals.css";
 import Page1 from "@/app/State/Page";
 import Oform from "@/app/State/Ofrom";
 import Effecting from "@/app/State/Effecting";
-import Page from "@/app/Resource/Page";
+import Page from "@/app/Resource/Tracker";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
